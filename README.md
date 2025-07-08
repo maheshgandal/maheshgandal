@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahesh Gandal</h1>
-<h3 align="center">💻 Full Stack Developer | Java • Node.js • SQL • JavaScript</h3>
+<h3 align="center">💻 Full Stack Developer</h3>
 
 ---
 
@@ -45,7 +45,7 @@
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/your-link-here](https://www.linkedin.com/in/mahesh-gandal-33b332265/)" target="_blank">
+  <a href="https://www.linkedin.com/in/mahesh-gandal-33b332265/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:maheshgandal850@gmail.com">
@@ -53,13 +53,4 @@
   </a>
 </p>
 
----
 
-### ⚡ Fun Fact
-> “First, solve the problem. Then, write the code.” – John Johnson
-
----
-
-<p align="center">
-  🚀 *Thanks for visiting! Feel free to check out my repositories and connect with me.*
-</p>
